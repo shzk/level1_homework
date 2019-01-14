@@ -19,7 +19,7 @@ $arrs = $statement->fetchAll(PDO::FETCH_ASSOC);
 
 
 ?>
-<!DOCTIPE HTML>
+<!DOCTYPE HTML>
 <html>
 <head>
     <?php require_once $_SERVER['DOCUMENT_ROOT'].'/head.php'; ?>
